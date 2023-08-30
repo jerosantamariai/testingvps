@@ -1,0 +1,90 @@
+/* GENERAL */
+
+body {
+  padding-top: 5rem;
+}
+
+/* NAVBAR */
+
+.nav-logo {
+  width: 15rem;
+}
+
+/* CAROUSEL */
+
+.caroupic {
+  width: auto;
+  height: 400px;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* INTRODUCCION */
+
+.introduccion {
+  background-color: aquamarine;
+  height: 500px;
+}
+
+/* SERVICIOS */
+
+.servicios {
+  background-color: saddlebrown;
+  height: 500px;
+}
+
+/* CASOS */
+
+.casos {
+  background-color: goldenrod;
+  height: 500px;
+}
+
+div#casosExito {
+  /* display: block;
+  position: relative; */
+  top: 200px;
+  visibility: hidden;
+}
+
+/* BLOG */
+
+.blog {
+  background-color: rebeccapurple;
+  height: 500px;
+}
+
+/* FORMULARIO */
+
+.contacto {
+  background-image: url("./images/contacto.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100vw;
+  height: auto;
+}
+
+.formulario {
+  /* width: 40rem; */
+  margin: 0 auto;
+}
+
+.comentario {
+  height: 10rem;
+}
+
+.formContainer {
+  background-color: rgba(254, 254, 254, 0.5);
+}
+
+/* FOOTER */
+
+.borderline {
+  color: rgb(199, 199, 199);
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
